@@ -22,7 +22,7 @@ I'm a software developer who loves learning new things and sharing my projects w
 
 ## Statistical cards
 
-<table border="0">
+<table style="border: none;">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=18896101294&show_icons=true&theme=tokyonight" /></td>
     <td><img src="https://streak-stats.demolab.com/?user=18896101294&theme=tokyonight" /></td>
