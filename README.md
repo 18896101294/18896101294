@@ -2,9 +2,23 @@
 
 I'm a software developer who loves learning new things and sharing my projects with the world. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on [TNBLOG APP](https://github.com/aojiancc/TNBLOG.APP)
-- 🌱 I’m currently learning [AI Coding]
-- 💬 If you have any questions, feel free to contact me!
+<table>
+  <tr>
+    <!-- 这是自我介绍的部分 -->
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on [TNBLOG APP](https://github.com/aojiancc/TNBLOG.APP)</li>
+        <li>🌱 I’m currently learning [AI Coding]</li>
+        <li>💬 If you have any questions, feel free to contact me!</li>
+      </ul>
+    </td>
+
+    <!-- 这是语言统计卡片的部分 -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18896101294&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ## My projects
 
@@ -21,7 +35,6 @@ I'm a software developer who loves learning new things and sharing my projects w
   </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=18896101294&layout=compact&theme=tokyonight) ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=18896101294.18896101294)
 ## Contact me
 
 - 163: 18896101294@163.com
