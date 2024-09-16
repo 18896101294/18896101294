@@ -1,4 +1,4 @@
-# Hello, I'm XiangZheng! 🦌
+# Hello, I'm xiangzheng! 🦌
 
 I'm a software developer who loves learning new things and sharing my projects with the world. Welcome to my GitHub profile!
 
