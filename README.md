@@ -14,12 +14,10 @@ I'm a software developer who loves learning new things and sharing my projects w
 
 ## Statistical cards
 
-<table>
-  <tr>
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=18896101294&show_icons=true&theme=tokyonight" /></td>
-    <td style="border: none;"><img src="https://streak-stats.demolab.com/?user=18896101294&theme=tokyonight" /></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=18896101294&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=18896101294&theme=tokyonight" />
+</div>
 
 ## Contact me
 
