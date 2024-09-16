@@ -1,22 +1,22 @@
-# 你好，我是 向征！🦌
+# Hello, I'm xiangzheng! 🦌
 
-欢迎来到我的 GitHub 主页！  
-我是一名软件开发者，热衷于学习新技术并与世界分享我的项目。
+I'm a software developer who loves learning new things and sharing my projects with the world. Welcome to my GitHub profile!
 
-- 🔭 目前正在开发 [TNBLOG APP](https://github.com/aojiancc/TNBLOG.APP)
-- 🌱 目前正在学习 [AI编程]
-- 💬 如果你有任何问题，欢迎联系我！
+- 🔭 I’m currently working on [TNBLOG APP](https://github.com/aojiancc/TNBLOG.APP)
+- 🌱 I’m currently learning [AI Coding]
+- 💬 If you have any questions, feel free to contact me!
 
-## 我的项目
+## My projects
 
-- [TNBLOG](https://www.tnblog.net/) - TNBLOG-专业的技术分享
-- [Kubernetes-library](https://github.com/18896101294/Kubernetes-library) - 通过Docker Hub获取镜像
+- [TNBLOG](https://www.tnblog.net/) - TNBLOG-Professional technology sharing
 
-## 统计卡片
+- [Kubernetes-library](https://github.com/18896101294/Kubernetes-library) - Getting images via Docker Hub
+
+## Statistical cards
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=18896101294&show_icons=true&theme=tokyonight)
 
-## 联系我
+## Contact me
 
-- 163 邮箱: 18896101294@163.com
-- Googel 邮箱: xiangzheng188@gmail.com
+- 163 E-mail: 18896101294@163.com
+- Googel E-mail: xiangzheng188@gmail.com
