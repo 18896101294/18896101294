@@ -10,11 +10,7 @@ I'm a software developer who loves learning new things and sharing my projects w
         <li>🌱 I’m currently learning [AI Coding]</li>
         <li>💬 If you have any questions, feel free to contact me!</li>
       </ul>
-    </td>
-    
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18896101294&layout=compact&theme=tokyonight" />
-    </td>
+    </td
   </tr>
 </table>
 
