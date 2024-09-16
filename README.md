@@ -21,11 +21,13 @@ I'm a software developer who loves learning new things and sharing my projects w
 
 ## Contact me
 
-<div style="display: flex; justify-content: space-between; font-size: 16px; padding: 10px 0;">
-  <div style="margin-right: 20px;">
-    <font>📧 163:</font> 18896101294@163.com
+<div style="display: flex; justify-content: space-between; align-items: center; font-size: 16px; padding: 10px 0;">
+  <div style="margin-right: 20px; display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/163.png" alt="163" style="width: 24px; height: 24px; margin-right: 8px;">
+    <span>18896101294@163.com</span>
   </div>
-  <div>
-    <font>📧 Google:</font> xiangzheng188@gmail.com
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Google" style="width: 24px; height: 24px; margin-right: 8px;">
+    <span>xiangzheng188@gmail.com</span>
   </div>
 </div>
