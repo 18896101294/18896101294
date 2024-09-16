@@ -23,9 +23,9 @@ I'm a software developer who loves learning new things and sharing my projects w
 
 <div style="display: flex; justify-content: space-between; font-size: 16px; padding: 10px 0;">
   <div style="margin-right: 20px;">
-    <strong>📧 163邮箱:</strong> 18896101294@163.com
+    <font>📧 163:</font> 18896101294@163.com
   </div>
   <div>
-    <strong>📧 Google邮箱:</strong> xiangzheng188@gmail.com
+    <font>📧 Google:</font> xiangzheng188@gmail.com
   </div>
 </div>
