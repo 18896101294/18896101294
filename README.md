@@ -16,7 +16,7 @@ I'm a software developer who loves learning new things and sharing my projects w
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=18896101294&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com/?user=18896101294&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=18896101294&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=18896101294&layout=compact&theme=tokyonight) ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=18896101294)
 
 ## Contact me
 
