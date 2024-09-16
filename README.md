@@ -4,7 +4,6 @@ I'm a software developer who loves learning new things and sharing my projects w
 
 <table>
   <tr>
-    <!-- 这是自我介绍的部分 -->
     <td>
       <ul>
         <li>🔭 I’m currently working on [TNBLOG APP](https://github.com/aojiancc/TNBLOG.APP)</li>
@@ -12,8 +11,7 @@ I'm a software developer who loves learning new things and sharing my projects w
         <li>💬 If you have any questions, feel free to contact me!</li>
       </ul>
     </td>
-
-    <!-- 这是语言统计卡片的部分 -->
+    
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18896101294&layout=compact&theme=tokyonight" />
     </td>
