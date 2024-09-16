@@ -16,7 +16,9 @@ I'm a software developer who loves learning new things and sharing my projects w
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=18896101294&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight)
+
 ## Contact me
 
-- 163 E-mail: 18896101294@163.com
-- Googel E-mail: xiangzheng188@gmail.com
+- 163: 18896101294@163.com
+- Googel: xiangzheng188@gmail.com
