@@ -18,5 +18,5 @@
 
 ## 联系我
 
-- 163邮箱: [你的 LinkedIn 链接](18896101294@163.com)
-- Googel: [你的 Twitter 链接](xiangzheng188@gmail.com)
+- 163 邮箱: 18896101294@163.com
+- Googel 邮箱: xiangzheng188@gmail.com
