@@ -21,5 +21,7 @@ I'm a software developer who loves learning new things and sharing my projects w
 
 ## Contact me
 
-- 163: 18896101294@163.com
-- Googel: xiangzheng188@gmail.com
+<div style="display: flex; justify-content: space-between;">
+  163: 18896101294@163.com
+  Googel: xiangzheng188@gmail.com
+</div> 
