@@ -19,13 +19,4 @@ I'm a software developer who loves learning new things and sharing my projects w
     <td><img src="https://github-readme-stats.vercel.app/api?username=18896101294&show_icons=true&theme=tokyonight" /></td>
     <td><img src="https://streak-stats.demolab.com/?user=18896101294&theme=tokyonight" /></td>
   </tr>
-</table>
-
-## Contact me
-
-<div style="display: flex; justify-content: space-between; align-items: center; font-size: 16px; padding: 10px 0;">
-  <div style="display: flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Google" style="width: 24px; height: 24px; margin-right: 8px;">
-    <span>xiangzheng188@gmail.com</span>
-  </div>
-</div>
+</table
