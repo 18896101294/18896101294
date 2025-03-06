@@ -17,6 +17,8 @@ I'm a software developer who loves learning new things and sharing my projects w
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=18896101294&show_icons=true&theme=tokyonight" /></td>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=18896101294&bg_color=191a23&color=00fbff&line=5c9bf9&point=ff00c8&area=true&hide_border=true" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=18896101294&hide_border=true&theme=merko&height=250&days=15" /></td>
   </tr>
 </table
