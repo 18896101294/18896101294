@@ -21,5 +21,6 @@ I'm a software developer who loves learning new things and sharing my projects w
   </tr>
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=18896101294&hide_border=true&theme=merko&height=250&days=15" /></td>
+    <td></td>
   </tr>
 </table
