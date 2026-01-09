@@ -34,6 +34,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18896101294&theme=radical" alt="profile details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=18896101294&theme=rogue" />
 </div>
 
 <br>
