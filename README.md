@@ -33,8 +33,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=18896101294&show_icons=true&theme=omni&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18896101294&layout=compact&theme=omni&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=18896101294&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
