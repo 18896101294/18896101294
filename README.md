@@ -4,8 +4,6 @@
 
 **全栈开发者 · AI 工具构建者 · Full-stack Developer & AI Tool Builder**
 
-<em>紫芝心 · 烟霞志 · 水云身</em>
-
 <p>
   <a href="https://www.tnblog.net/">
     <img src="https://img.shields.io/badge/Blog-TNBLOG-2563EB?style=flat-square&logo=rss&logoColor=white" alt="TNBLOG" />
