@@ -18,18 +18,17 @@
 
 ## 关于我 · About Me
 
-我关注如何把大模型能力真正落到开发工作流中，近期主要在构建 **AI Coding、需求交付工作台、浏览器 Agent 插件 与 LLM 应用工具**。相比单纯让 AI 生成代码，我更关注如何让它连接真实工具、参与业务流程，并在可控、可验证的前
- 提下完成工作。
+我关注如何把大模型能力真正落到开发与业务工作流中，持续探索 **AI 编程、Agent 自动化与 LLM 应用**。相比单纯让 AI 生成代码，我更关注如何让它连接真实工具、参与业务流程，并在可控、可验证的前提下完成工作。
 
-I build practical AI-powered developer tools, with a background in **.NET, full-stack development and cloud-native engineering**.
+I focus on bringing LLM capabilities into real-world development and business workflows, exploring **AI-assisted coding, agent automation, and LLM-powered applications**. Beyond code generation, I’m interested in enabling AI to connect with real tools, participate in business processes, and complete tasks in a controlled and verifiable way.
 
- 近期主要在探索和构建：
+近期主要在探索和构建：
 
-- 🚀 需求交付工作台：将需求确认、AI 跨仓规划与实现、代码审核、测试发布和业务验收串联起来，探索人机协作的研发交付流程。
-- 🌐 浏览器 Agent 插件：连接 AI 与用户浏览器页面，让 Agent 能够读取信息、操作页面和执行自动化任务，同时保留授权、确认与审计机制。
-- 📖 AI 阅读翻译插件：使用自有模型 API 提供段落翻译与全文翻译，让 AI 自然融入日常阅读。
-- 🧰 开发者工具与扩展：打造可复用的开发者工具和本地效率扩展。
-- ✍️ 维护技术分享站点 TNBLOG (https://www.tnblog.net/)。
+- 🚀 **需求交付工作台**：将需求确认、AI 跨仓规划与实现、代码审核、测试发布和业务验收串联起来，探索人机协作的研发交付流程。
+- 🌐 **浏览器 Agent 插件**：连接 AI 与用户授权的浏览器页面，让 Agent 能够读取信息、操作页面和执行自动化任务，同时保留授权、确认与审计机制。
+- 📖 **AI 阅读翻译插件**：使用自有模型 API 提供段落翻译与全文翻译，让 AI 自然融入日常阅读。
+- 🧰 **开发者工具与扩展**：打造可复用的开发者工具和本地效率扩展。
+- ✍️ 维护技术分享站点 [TNBLOG](https://www.tnblog.net/)。
 - 💬 乐于交流 `.NET`、`TypeScript`、`MCP`、`Kubernetes` 与 LLM 应用。
 
 ## 技术栈 · Tech Stack
@@ -42,6 +41,8 @@ I build practical AI-powered developer tools, with a background in **.NET, full-
 
 | 项目 | 简介 |
 | --- | --- |
+| **需求交付工作台** | 面向需求到测试环境交付的 AI 工作台，串联跨仓规划与实现、人工审核、测试发布和业务验收。 |
+| **浏览器 Agent 插件** | 通过 MCP / HTTP 连接 Agent 与用户授权的 Chrome / Edge 页面，支持信息读取与交互自动化，保留操作确认与审计机制。 |
 | **[companion-reader](https://github.com/18896101294/companion-reader)** | 使用自有模型 API 的 Chrome 阅读翻译插件，支持段落悬停翻译与全文批量翻译。 |
 | **[pi-local-extensions](https://github.com/18896101294/pi-local-extensions)** | 一组轻量的 Pi 交互与显示增强扩展，包括富文本复制、任务标题和紧凑界面。 |
 | **[my-mcp-manager](https://github.com/18896101294/my-mcp-manager)** | 通过统一 Web 界面管理 Cursor、Claude、Codex 等工具的本地 MCP 配置。 |
