@@ -23,10 +23,14 @@
 
 I build practical AI-powered developer tools, with a background in **.NET, full-stack development and cloud-native engineering**.
 
-- 🧠 探索 AI Coding、Agent 工作流与上下文工程
-- 🧰 打造可复用的开发者工具和本地效率扩展
-- 🌐 维护技术分享站点 [TNBLOG](https://www.tnblog.net/)
-- 💬 乐于交流 `.NET`、`TypeScript`、`MCP`、`Kubernetes` 与 LLM 应用
+ 近期主要在探索和构建：
+
+- 🚀 需求交付工作台：将需求确认、AI 跨仓规划与实现、代码审核、测试发布和业务验收串联起来，探索人机协作的研发交付流程。
+- 🌐 浏览器 Agent 插件：连接 AI 与用户浏览器页面，让 Agent 能够读取信息、操作页面和执行自动化任务，同时保留授权、确认与审计机制。
+- 📖 AI 阅读翻译插件：使用自有模型 API 提供段落翻译与全文翻译，让 AI 自然融入日常阅读。
+- 🧰 开发者工具与扩展：打造可复用的开发者工具和本地效率扩展。
+- ✍️ 维护技术分享站点 TNBLOG (https://www.tnblog.net/)。
+- 💬 乐于交流 `.NET`、`TypeScript`、`MCP`、`Kubernetes` 与 LLM 应用。
 
 ## 技术栈 · Tech Stack
 
