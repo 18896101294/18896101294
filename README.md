@@ -20,8 +20,6 @@
 
 我关注如何把大模型能力真正落到开发与业务工作流中，持续探索 **AI 编程、Agent 自动化与 LLM 应用**。相比单纯让 AI 生成代码，我更关注如何让它连接真实工具、参与业务流程，并在可控、可验证的前提下完成工作。
 
-I focus on bringing LLM capabilities into real-world development and business workflows, exploring **AI-assisted coding, agent automation, and LLM-powered applications**. Beyond code generation, I’m interested in enabling AI to connect with real tools, participate in business processes, and complete tasks in a controlled and verifiable way.
-
 近期主要在探索和构建：
 
 - 🚀 **需求交付工作台**：将需求确认、AI 跨仓规划与实现、代码审核、测试发布和业务验收串联起来，探索人机协作的研发交付流程。
