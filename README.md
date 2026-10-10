@@ -44,5 +44,4 @@
 | **[companion-reader](https://github.com/18896101294/companion-reader)** | 使用自有模型 API 的 Chrome 阅读翻译插件，支持段落悬停翻译与全文批量翻译。 |
 | **[pi-local-extensions](https://github.com/18896101294/pi-local-extensions)** | 一组轻量的 Pi 交互与显示增强扩展，包括富文本复制、任务标题和紧凑界面。 |
 | **[my-mcp-manager](https://github.com/18896101294/my-mcp-manager)** | 通过统一 Web 界面管理 Cursor、Claude、Codex 等工具的本地 MCP 配置。 |
-| **[my-appflowy-mcp](https://github.com/18896101294/my-appflowy-mcp)** | 将 AI 生成的 Markdown 富文本自动上传至 AppFlowy 的 MCP Server。 |
 | **[TNBLOG](https://www.tnblog.net/)** | 面向开发者的技术分享与知识沉淀平台。 |
