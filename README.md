@@ -18,7 +18,8 @@
 
 ## 关于我 · About Me
 
-我关注如何把大模型能力真正落到开发工作流中，近期主要在构建 **AI Coding、Pi 扩展、MCP 与 LLM 应用工具**。
+我关注如何把大模型能力真正落到开发工作流中，近期主要在构建 **AI Coding、需求交付工作台、浏览器 Agent 插件 与 LLM 应用工具**。相比单纯让 AI 生成代码，我更关注如何让它连接真实工具、参与业务流程，并在可控、可验证的前
+ 提下完成工作。
 
 I build practical AI-powered developer tools, with a background in **.NET, full-stack development and cloud-native engineering**.
 
